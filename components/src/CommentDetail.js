@@ -12,7 +12,7 @@ function CommentDetail(props) {
           {props.name}
         </a>
         <div className="metadata">
-          <span className="date">Today at 6:00PM</span>
+          <span className="date">{props.timeAgo}</span>
         </div>
         <div className="text">{props.post}</div>
       </div>
