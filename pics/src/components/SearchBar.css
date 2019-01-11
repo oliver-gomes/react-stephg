@@ -1,17 +1,17 @@
 .ui .segment {
-  background: #7b4397; /* fallback for old browsers */
+  background: #fcaba7; /* fallback for old browsers */
   background: -webkit-linear-gradient(
     to right,
-    #dc2430,
-    #7b4397
+    #fcaba7,
+    #ffd8d8
   ); /* Chrome 10-25, Safari 5.1-6 */
   background: linear-gradient(
     to right,
-    #dc2430,
-    #7b4397
+    #fcaba7,
+    #ffd8d8
   ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
   border-radius: 20px;
 }
-label h2 {
+label h3 {
   color: #fff;
 }
