@@ -17,10 +17,10 @@ class SearchBar extends React.Component {
         <form onSubmit={this.onFormSubmit} className="ui form ">
           <div className="field ">
             <label>
-              <h2>
+              <h3>
                 <i class="search icon" />
                 Image Search
-              </h2>
+              </h3>
             </label>
             <input
               type="text"
