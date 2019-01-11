@@ -1,5 +1,5 @@
 import React from "react";
-// import "./SearchBar.css";
+import "./SearchBar.css";
 
 class SearchBar extends React.Component {
   state = {
@@ -13,7 +13,7 @@ class SearchBar extends React.Component {
 
   render() {
     return (
-      <div className="ui segment" id="ss">
+      <div className="ui segment">
         <form onSubmit={this.onFormSubmit} className="ui form ">
           <div className="field ">
             <label>
