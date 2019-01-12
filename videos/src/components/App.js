@@ -11,7 +11,7 @@ class App extends React.Component {
   };
 
   componentDidMount() {
-    this.onTermSubmit("teens react");
+    this.onTermSubmit("upcoming trailers");
   }
   onTermSubmit = async term => {
     const response = await youtube.get("./search", {
