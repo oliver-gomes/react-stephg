@@ -1,5 +1,7 @@
 # Youtube Clone with React
+
 ![project image](https://oliver-gomes.github.io/images/github%20images/ytube-clone.png)
+
 ## Table of Contents
 
 * [How to Load the App](#howtoloadtheapp)
