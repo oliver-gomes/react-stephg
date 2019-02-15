@@ -1,4 +1,5 @@
 # Youtube Clone with React
+[View the App](http://ordinary-brick.surge.sh/)
 
 ![project image](https://oliver-gomes.github.io/images/github%20images/ytube-clone.png)
 
@@ -7,12 +8,7 @@
 * [How to Load the App](#howtoloadtheapp)
 - [How to Use the App](#how-to-use-the-app)
 
-### How to Load the App
-```
-git clone https://github.com/oliver-gomes/react-weatherapp.git
-npm install
-npm start
-```
+
 
 ## How to Use the App
 
